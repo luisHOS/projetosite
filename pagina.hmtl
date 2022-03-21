@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv = " Conteúdo compatível com X-UA " =" IE=edge " >
+    <meta name = "viewport" content = "largura=largura do dispositivo, escala inicial=1.0">
+    <link rel="stylesheet" href="editar.css">
+    <link rel="shortcut icon" href="luffy.ico" type="image/x-icon">
+    <title> One Piece </title>
+    </head>
+    <body>
+        <header>
+            <div id="title">
+                <img class="logo-bando" src="bando.png" alt="simbolo-bando">
+
+            </div>
+            <ul>
+                <a href="#"><li> Inicio </li></a>
+                <a href="#"><li> Informações </li></a>
+                <a href="#"><li> Serviços </li></a>
+            </ul>
+            
+        </header>
+        <main>
+            <aside>
+        <div class="selection">
+            <h2>Venha se aventurar </h2>
+            <h2>no mundo <span> Pirata! </span></h2>
+
+        </div>
+        <p>
+
+        </p>
+
+        <div class="login-box">
+            <h2>Cadastro</h2>
+            <form>
+                <div class="user-box">
+                    <input type="text" name="" required="">
+                    <label>Usuário</label>
+                </div>
+                <div class="user-box">
+                    <input type="password" name="" required="">
+                    <label>Senha</label>
+                </div>
+                <a href="#">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    Enviar
+                </a>
+            </form>
+        </div>
+    </aside>
+    <article>
+        <img class="luffy" src="luffy2-removebg-preview.png" alt="img-luffy">
+    </article>
+    </main>
+    </body>
+</html>
